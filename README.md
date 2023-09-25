@@ -1,5 +1,9 @@
 #### Hi! I'm Boris Merkulov 👋
 
+
+![snake svg](https://raw.githubusercontent.com/Buhgin/Buhgin/output/github-contribution-grid-snake.svg)
+
+
 👨🏻‍💻 About me:
 - 💡 I explore new technologies and love to learn something new.
 - 🎓 Finished the course "Java Developer: from Hello World to your own client-server application" from Sber.
